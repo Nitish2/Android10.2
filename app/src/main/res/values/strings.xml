@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List Fragment</string>
+    <string name="node_js">NODE JS</string>
+    <string name="java">JAVA</string>
+    <string name="android">ANDROID</string>
+    <string name="javascript">JAVASCRIPT</string>
+</resources>
